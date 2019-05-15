@@ -23,7 +23,7 @@ To complete this workshop, you will need to have VS Code and Git installed on yo
 [Summary](sections/summary.md)  
 [Resources](sections/resources.md)  
 
------
+------
 
 Session Leader: Rebecca Parker
 
